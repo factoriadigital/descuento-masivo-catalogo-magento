@@ -1,8 +1,6 @@
 # Script para descuento masivo del catálogo en Magento
 ![](https://img.shields.io/github/stars/factoriadigital/descuento-masivo-catalogo-magento.svg) ![](https://img.shields.io/github/forks/factoriadigital/descuento-masivo-catalogo-magento.svg) ![](https://img.shields.io/github/tag/factoriadigital/descuento-masivo-catalogo-magento.svg) ![](https://img.shields.io/github/release/factoriadigital/descuento-masivo-catalogo-magento.svg) ![](https://img.shields.io/github/issues/factoriadigital/descuento-masivo-catalogo-magento.svg) 
 
-Este script aplica 
-
 ## Método de uso
 
 Con el siguiente script podremos descontar un porcentaje de forma masiva a todo el catálogo en Magento 1.x
